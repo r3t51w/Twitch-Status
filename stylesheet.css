@@ -1,0 +1,33 @@
+#back{
+  background-color:grey;
+  padding:20px;
+}
+.container{
+
+  text-align:center;
+  width:340px;
+
+}
+#list{
+  background-color:white;
+  border-radius:10px;
+}
+#search{
+  border-radius:10px;
+  width:290px;
+  margin:10px;
+  text-align: center;
+}
+#list{
+  padding:10px;
+}
+.red{
+  color:red;
+}
+.green{
+  color:green;
+}
+.status{
+  color:grey;
+  font-size:10px;
+}
